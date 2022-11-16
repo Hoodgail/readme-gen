@@ -21,6 +21,7 @@
   
   # Installation
   run the index file and answer the prompt
+  https://drive.google.com/file/d/1MA6fAxYF1EqlaX1mq7oMrQdrWj_FWGRw/view?usp=share_link
   
   # Usage
   Answer each questions
